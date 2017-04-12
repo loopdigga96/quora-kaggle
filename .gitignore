@@ -3,3 +3,7 @@ datasets/*
 np_sparces/*
 submissions/*
 .DS_store
+.idea/
+models/dataframes/
+models/dataset_processing/
+models/keras_models/
